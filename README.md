@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Jeffrey Lau. I am a front-end developer with full-stack background based in Vancouver, BC. I enjoy building all things interactive and thrive under challenges. I believe you can never learn too much and would be a waste of your beautiful mind.
+My name is Jeffrey Lau. I am a front-end developer with full-stack background based in Vancouver, BC. I enjoy building all things interactive and thrive under challenges. I believe you can never learn too much, and strive to learn one thing a day.
 
 #### You can connect with me here:
 
