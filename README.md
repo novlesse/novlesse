@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Jeffrey Lau. I am a front-end developer with full-stack background based in Vancouver, BC. I enjoy building all things interactive and thrive under challenges. I believe you can never learn too much, and strive to learn one thing a day.
+My name is Jeffrey Lau. I am a front-end developer with full-stack background based in Vancouver, BC. I enjoy building all things interactive and learning new technologies.
 
 #### You can connect with me here:
 
@@ -8,7 +8,7 @@ My name is Jeffrey Lau. I am a front-end developer with full-stack background ba
 
 ---
 
-### Technologies & Tools
+<!-- ### Technologies & Tools
 
 ![](https://img.shields.io/badge/React-00979D?labelColor=292929&style=flat&logoWidth=15&logo=react&logoColor=ffffff&")
 ![](https://img.shields.io/badge/Vue.js-00979D?labelColor=292929&style=flat&logoWidth=15&logo=vue.js&logoColor=ffffff&")
@@ -28,4 +28,4 @@ My name is Jeffrey Lau. I am a front-end developer with full-stack background ba
 ### Currently Learning
 
 ![](https://img.shields.io/badge/Flutter-00979D?labelColor=292929&style=flat&logoWidth=15&logo=flutter&logoColor=ffffff&")
-![](https://img.shields.io/badge/Dart-00979D?labelColor=292929&style=flat&logoWidth=15&logo=dart&logoColor=ffffff&")
+![](https://img.shields.io/badge/Dart-00979D?labelColor=292929&style=flat&logoWidth=15&logo=dart&logoColor=ffffff&") -->
