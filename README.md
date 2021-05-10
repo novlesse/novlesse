@@ -25,7 +25,9 @@ My name is Jeffrey Lau. I am a front-end developer with full-stack background ba
 ![](https://img.shields.io/badge/Mongo_DB-00979D?labelColor=292929&style=flat&logoWidth=15&logo=mongodb&logoColor=ffffff&")
 ![](https://img.shields.io/badge/PostgreSQL-00979D?labelColor=292929&style=flat&logoWidth=15&logo=postgresql&logoColor=ffffff&")
 
+-->
+
 ### Currently Learning
 
 ![](https://img.shields.io/badge/Flutter-00979D?labelColor=292929&style=flat&logoWidth=15&logo=flutter&logoColor=ffffff&")
-![](https://img.shields.io/badge/Dart-00979D?labelColor=292929&style=flat&logoWidth=15&logo=dart&logoColor=ffffff&") -->
+![](https://img.shields.io/badge/Dart-00979D?labelColor=292929&style=flat&logoWidth=15&logo=dart&logoColor=ffffff&")
