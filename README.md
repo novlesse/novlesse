@@ -13,7 +13,7 @@ I am energized by pursuing continuous learning and improvement with a growth min
 ### I am comfortable with:
 
 ![](https://img.shields.io/badge/React-00979D?labelColor=292929&style=flat&logoWidth=15&logo=react&logoColor=ffffff&")
-![](https://img.shields.io/badge/Vue.js-00979D?labelColor=292929&style=flat&logoWidth=15&logo=vue.js&logoColor=ffffff&")
+![](https://img.shields.io/badge/Vue.js-00979D?labelColor=292929&style=flat&logoWidth=15&logo=vuejs&logoColor=ffffff&")
 ![](https://img.shields.io/badge/GraphQL-00979D?labelColor=292929&style=flat&logoWidth=15&logo=graphql&logoColor=ffffff&")
 ![](https://img.shields.io/badge/JavaScript-00979D?labelColor=292929&style=flat&logoWidth=15&logo=javascript&logoColor=ffffff&")
 ![](https://img.shields.io/badge/TypeScript-00979D?labelColor=292929&style=flat&logoWidth=15&logo=typescript&logoColor=ffffff&")
