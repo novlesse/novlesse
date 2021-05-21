@@ -20,13 +20,11 @@ I am energized by pursuing continuous learning and improvement with a growth min
 ![](https://img.shields.io/badge/Python-00979D?labelColor=292929&style=flat&logoWidth=15&logo=python&logoColor=ffffff&")
 ![](https://img.shields.io/badge/HTML5-00979D?labelColor=292929&style=flat&logoWidth=15&logo=html5&logoColor=ffffff&")
 ![](https://img.shields.io/badge/CSS3-00979D?labelColor=292929&style=flat&logoWidth=15&logo=css3&logoColor=ffffff&")
-
-<!--
 ![](https://img.shields.io/badge/Firebase-00979D?labelColor=292929&style=flat&logoWidth=15&logo=firebase&logoColor=ffffff&")
 ![](https://img.shields.io/badge/Mongo_DB-00979D?labelColor=292929&style=flat&logoWidth=15&logo=mongodb&logoColor=ffffff&")
 ![](https://img.shields.io/badge/PostgreSQL-00979D?labelColor=292929&style=flat&logoWidth=15&logo=postgresql&logoColor=ffffff&")
 
-
+<!--
 ### Currently Learning
 
 ![](https://img.shields.io/badge/Flutter-00979D?labelColor=292929&style=flat&logoWidth=15&logo=flutter&logoColor=ffffff&")
