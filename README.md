@@ -8,6 +8,9 @@ I am energized by pursuing continuous learning and improvement with a growth min
 
 [![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-0A66C2?labelColor=0A66C2&style=social&logo=linkedin&logoColor=0A66C2 "LinkedIn Logo")](https://www.linkedin.com/in/jayell-dev/)
 
+
+<!--
+
 ---
 
 ### I am comfortable with:
@@ -21,7 +24,7 @@ I am energized by pursuing continuous learning and improvement with a growth min
 ![](https://img.shields.io/badge/CSS3-00979D?labelColor=292929&style=flat&logoWidth=15&logo=css3&logoColor=ffffff&")
 ![](https://img.shields.io/badge/PostgreSQL-00979D?labelColor=292929&style=flat&logoWidth=15&logo=postgresql&logoColor=ffffff&")
 
-<!--
+
 ### Currently Learning
 
 ![](https://img.shields.io/badge/Flutter-00979D?labelColor=292929&style=flat&logoWidth=15&logo=flutter&logoColor=ffffff&")
